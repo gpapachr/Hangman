@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 
 (Greek words and messages)
 
